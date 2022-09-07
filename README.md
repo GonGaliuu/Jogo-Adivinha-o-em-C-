@@ -1,1 +1,1 @@
-# Jogo-Adivinha-o-em-C-
+# Jogo de adivinhação em C++
